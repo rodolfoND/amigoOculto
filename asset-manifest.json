@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//rodolfond.github.io/amigoOculto/static/css/main.ab7136cd.chunk.css",
+    "main.js": "//rodolfond.github.io/amigoOculto/static/js/main.7e82a296.chunk.js",
+    "main.js.map": "//rodolfond.github.io/amigoOculto/static/js/main.7e82a296.chunk.js.map",
+    "runtime-main.js": "//rodolfond.github.io/amigoOculto/static/js/runtime-main.e9cb6ee7.js",
+    "runtime-main.js.map": "//rodolfond.github.io/amigoOculto/static/js/runtime-main.e9cb6ee7.js.map",
+    "static/js/2.f41ebee8.chunk.js": "//rodolfond.github.io/amigoOculto/static/js/2.f41ebee8.chunk.js",
+    "static/js/2.f41ebee8.chunk.js.map": "//rodolfond.github.io/amigoOculto/static/js/2.f41ebee8.chunk.js.map",
+    "static/js/3.fc4f97dc.chunk.js": "//rodolfond.github.io/amigoOculto/static/js/3.fc4f97dc.chunk.js",
+    "static/js/3.fc4f97dc.chunk.js.map": "//rodolfond.github.io/amigoOculto/static/js/3.fc4f97dc.chunk.js.map",
+    "index.html": "//rodolfond.github.io/amigoOculto/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "//rodolfond.github.io/amigoOculto/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f41ebee8.chunk.js.LICENSE.txt": "//rodolfond.github.io/amigoOculto/static/js/2.f41ebee8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "//rodolfond.github.io/amigoOculto/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9cb6ee7.js",
+    "static/js/2.f41ebee8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.7e82a296.chunk.js"
+  ]
+}
