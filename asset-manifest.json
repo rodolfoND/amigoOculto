@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/amigoOculto/static/css/main.c5259356.chunk.css",
-    "main.js": "/amigoOculto/static/js/main.0e314818.chunk.js",
-    "main.js.map": "/amigoOculto/static/js/main.0e314818.chunk.js.map",
+    "main.css": "/amigoOculto/static/css/main.c5bb0446.chunk.css",
+    "main.js": "/amigoOculto/static/js/main.33148735.chunk.js",
+    "main.js.map": "/amigoOculto/static/js/main.33148735.chunk.js.map",
     "runtime-main.js": "/amigoOculto/static/js/runtime-main.b449c3c5.js",
     "runtime-main.js.map": "/amigoOculto/static/js/runtime-main.b449c3c5.js.map",
-    "static/js/2.5753b21c.chunk.js": "/amigoOculto/static/js/2.5753b21c.chunk.js",
-    "static/js/2.5753b21c.chunk.js.map": "/amigoOculto/static/js/2.5753b21c.chunk.js.map",
+    "static/js/2.13c0c368.chunk.js": "/amigoOculto/static/js/2.13c0c368.chunk.js",
+    "static/js/2.13c0c368.chunk.js.map": "/amigoOculto/static/js/2.13c0c368.chunk.js.map",
     "index.html": "/amigoOculto/index.html",
-    "static/css/main.c5259356.chunk.css.map": "/amigoOculto/static/css/main.c5259356.chunk.css.map",
-    "static/js/2.5753b21c.chunk.js.LICENSE.txt": "/amigoOculto/static/js/2.5753b21c.chunk.js.LICENSE.txt"
+    "static/css/main.c5bb0446.chunk.css.map": "/amigoOculto/static/css/main.c5bb0446.chunk.css.map",
+    "static/js/2.13c0c368.chunk.js.LICENSE.txt": "/amigoOculto/static/js/2.13c0c368.chunk.js.LICENSE.txt",
+    "static/media/foto.8866ac7c.png": "/amigoOculto/static/media/foto.8866ac7c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b449c3c5.js",
-    "static/js/2.5753b21c.chunk.js",
-    "static/css/main.c5259356.chunk.css",
-    "static/js/main.0e314818.chunk.js"
+    "static/js/2.13c0c368.chunk.js",
+    "static/css/main.c5bb0446.chunk.css",
+    "static/js/main.33148735.chunk.js"
   ]
 }
