@@ -1,0 +1,2 @@
+(this["webpackJsonpamigo-oculto"]=this["webpackJsonpamigo-oculto"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),o=n(0),r=n.n(o),i=n(3),s=n.n(i);n(9);var a=function(){return Object(c.jsx)("div",{children:"Learn"})};s.a.render(Object(c.jsx)(r.a.StrictMode,{children:Object(c.jsx)(a,{})}),document.getElementById("root"))},9:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.0e314818.chunk.js.map
