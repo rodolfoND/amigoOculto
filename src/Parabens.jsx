@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import DivTitulo, { Botao, MSG, DivImg } from './Estilos'
+import {
+  DivTituloParabens, Botao, MSG, DivImg,
+} from './Estilos'
 import foto from './foto.png'
 
 const Parabens = ({ setAcertou, setErro, setEstado }) => {
@@ -19,9 +21,9 @@ const Parabens = ({ setAcertou, setErro, setEstado }) => {
   }
   return (
     <div>
-      <DivTitulo>
+      <DivTituloParabens>
         O meu amigo oculto é o Christian!!!
-      </DivTitulo>
+      </DivTituloParabens>
       <DivImg>
         <img src="https://pa1.narvii.com/6692/8bec131a87a9e2f52da26d4140201b0fdf17ce63_hq.gif" alt="fogos" />
       </DivImg>

@@ -1,6 +1,16 @@
 import styled from 'styled-components'
 
 const DivTitulo = styled.div`
+    color: yellow;
+    font-weight: bold;
+    font-size: 42px;
+
+  @media (max-width: 800px) {
+    font-size: 32px;
+  }
+`
+
+export const DivTituloParabens = styled.div`
  @keyframes fa-blink {
      0% { opacity: 1; }
      50% { opacity: 0.5; }
@@ -14,6 +24,10 @@ const DivTitulo = styled.div`
     color: yellow;
     font-weight: bold;
     font-size: 42px;
+
+  @media (max-width: 800px) {
+    font-size: 32px;
+  }
 `
 
 export const FooterEstilizado = styled.div`
@@ -104,6 +118,10 @@ export const MSG = styled.p`
   background-clip: text;
   -webkit-text-fill-color: transparent;
   text-transform: uppercase;
+
+  @media (max-width: 800px) {
+    font-size: 26px;
+  }
 `
 
 export const DivImg = styled.div`
